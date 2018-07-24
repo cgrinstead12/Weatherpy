@@ -28,7 +28,7 @@ When analyzing the winds speeds of each city, one could see that wind speeds typ
 
 ![alt text](https://github.com/cgrinstead12/Weatherpy/blob/master/main/Chart%20Pictures/WindSpeed.png)
 
-**Cities by Coordinates**
+**Cities by Coordinates (Latitude & Longitude)**
 
 In the last figure, the latitude data points help give the observer a more recognizable picture of what is going on since the data points are now plotted in what appears to be a world map. When compared to the first figure, the observation that temperatures increase as latitude points are closer to the equator become more clear. 
 
