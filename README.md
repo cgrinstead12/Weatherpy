@@ -6,7 +6,7 @@ In this example, I created a Python script to visualize the weather of 500+ citi
 
 **Temperatures of Cities (Latitude)**
 
-Using a get request from the OpenWeatherMap API I was able to query the current temperatures of over 500 cities which are represented in the chart below by their associated latitude coordinate. Some of the observations we can make from this figure are that temperatures are at their highest when they are in closer proximity to the equator (0 latitude). As you get further from the equator and closer to the north and south pole, the temperature decreases. 
+Using a get request from the OpenWeatherMap API, I was able to query the current temperatures of over 500 cities which are represented in the chart below by their associated latitude coordinate. Some of the observations we can make from this figure are that temperatures are at their highest when they are in closer proximity to the equator (0 latitude). As you get further from the equator and closer to the north and south pole, the temperatures decreases\. 
 
 ![alt text](https://github.com/cgrinstead12/Weatherpy/blob/master/main/Chart%20Pictures/Temperature.png)
 
